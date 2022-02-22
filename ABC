@@ -1,6 +1,7 @@
 #include<stdio.h>
 main()
 {
+  int a = 10;
   printf("This is a C language code.");
   printf("Hello World!");
   return;
